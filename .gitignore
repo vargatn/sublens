@@ -1,0 +1,17 @@
+workspace/*_files
+workspace/cluster
+workspace/*.fit
+workspace/*.fits
+workspace/*.p
+workspace/.ipnyb
+workspace/*/*
+settings.yaml
+build
+dist
+sublens.egg-info
+.idea
+*/__pycache__
+__pycache__
+*/*.pdf
+*/*.npz
+*/*.log
